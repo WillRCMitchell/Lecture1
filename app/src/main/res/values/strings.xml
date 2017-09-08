@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lecture1</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Launch Hello World</string>
+    <string name="dummy_content">Welcome!</string>
+    <string name="PROG3210_Lecture_1">PROG3210Lecture</string>
+</resources>
